@@ -2,4 +2,4 @@
 Collect things by scraping
 
 
-WIP: Using scrapy
+WIP: moving code from selenimum+beautifulsoup to  scrapy 🚧
