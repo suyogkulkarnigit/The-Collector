@@ -2,4 +2,4 @@
 Collect things by scraping
 
 
-WIP: playwright + scrapy
+WIP: selenium + python
