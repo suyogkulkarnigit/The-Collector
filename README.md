@@ -1,5 +1,19 @@
-# The-Collector
-Collect things by scraping
+## Collector
 
+**-->** **WIP**
 
-WIP: selenium + python
+## Setup
+- ```make setup```
+
+## Install Dependencies
+- ```make install```
+
+## Run scripts
+- ```make run make run WHAT=[option]```
+
+    - options can be,
+        - meta
+        - Incoming ...
+
+## Remove venv/pipenv
+- ```make rm```
