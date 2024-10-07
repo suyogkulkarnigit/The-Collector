@@ -9,7 +9,7 @@
 - ```make install```
 
 ## Run scripts
-- ```make run make run WHAT=[option]```
+- ```make run WHAT=[option]```
 
     - options can be,
         - **meta**
