@@ -12,8 +12,8 @@
 - ```make run make run WHAT=[option]```
 
     - options can be,
-        - meta
-        - Incoming ...
+        - **meta**
+        - **Incoming** ...
 
 ## Remove venv/pipenv
 - ```make rm```
