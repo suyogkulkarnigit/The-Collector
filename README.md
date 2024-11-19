@@ -1,19 +1,29 @@
-## Collector
+# Sentiment Collector
 
-**-->** **WIP**
+> The goal is to create a scraper that gathers social media data and processes it through a Hugging Face model to analyze sentiments and gain insights into how people perceive your profile. So far, very little work has been done, as I’m currently occupied with other tasks, but I plan to revisit it when I have more free time.
 
-## Setup
-- ```make setup```
+## Setup Process
 
-## Install Dependencies
-- ```make install```
+##### Setup
+```
+ make setup
+```
 
-## Run scripts
-- ```make run WHAT=[option]```
+##### Install Dependencies
+```
+make install
+```
 
-    - options can be,
-        - **meta**
-        - **Incoming** ...
+##### Run scripts
+```
+make run WHAT=[option]
+```
 
-## Remove venv/pipenv
-- ```make rm```
+Run options can be,
+  - meta
+  - More Incoming ...
+
+##### Remove venv/pipenv
+```
+make rm
+```
